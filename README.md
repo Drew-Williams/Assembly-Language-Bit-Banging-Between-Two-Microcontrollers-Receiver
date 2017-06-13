@@ -1,5 +1,4 @@
 # Assembly-Language-Bit-Banging-Between-Two-Microcontrollers-Receiver
-Assembly-Language-Bit-Banging-Between-Two-Microcontrollers-Sender Assembly-Language-Bit-Banging-Between-Two-Microcontrollers
 
 This Assembly code allows for two PIC 16F628 Microcontrollers to communicate to each other using a technique called Bit-Banging. A general description of what big-banging is can be found here https://en.wikipedia.org/wiki/Bit_banging.
 
