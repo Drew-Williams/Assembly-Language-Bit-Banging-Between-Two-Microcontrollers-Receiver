@@ -4,4 +4,4 @@ This Assembly code allows for two PIC 16F628 Microcontrollers to communicate to 
 
 This code allows a user with two PIC 16F628 Microcontrollers to communicate with each other as well as trigger "events" within the connected chip.
 
-The code here represents the Receiver side of the communication. For receiver side code refer to Assemby-Language-Bit-Banging-Between-Two-Microcontrollers-Sender.
+The code here represents the Receiver side of the communication. For Sender side code, refer to Assemby-Language-Bit-Banging-Between-Two-Microcontrollers-Sender.
